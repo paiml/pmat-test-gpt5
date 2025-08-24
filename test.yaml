@@ -1,0 +1,12 @@
+model_name: "gpt-5"
+prompt: |
+  Create a complete Python CLI project that can traverse the filesystem.
+
+  The CLI should be complete and work similarly to the `find` tool.
+
+  The language should be production-ready with extensive testing,
+  documentation, and tooling infrastructure.
+language: "python"
+api: false
+editor: "vscode"
+features: "GitHub Copilot"
