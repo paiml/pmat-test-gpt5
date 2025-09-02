@@ -2,7 +2,7 @@
   <img src="./.github/header.svg" alt="LLM Rankings">
 </a>
 
-<h1 align="center"><a href="https://ds500.paiml.com/bootcamps/rust">GPT 5</a></h1>
+<h1 align="center"><a href="https://ds500.paiml.com/rankings/llms">GPT 5</a></h1>
 <h5 align="center">Model Evaluation</h5>
 
 
